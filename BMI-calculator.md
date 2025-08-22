@@ -21,3 +21,4 @@ A simple web app that calculates Body Mass Index (BMI) based on height and weigh
 2. Open `index.html` in your browser.
 
 **Live Demo:**
+https://augustinasg.github.io/bmi-calc/
